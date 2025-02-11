@@ -1,5 +1,5 @@
-/* ›LAYDA ›LHAN 150123852
-   AYﬁE YILDIZ 150122015
+/* √ùLAYDA √ùLHAN 150123852
+   AY√ûE YILDIZ 150122015
    In this code, costs are calculated in the splay tree and its modified version, mod-splay tree. */
 
 /* Standart C libraries*/
